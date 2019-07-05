@@ -1,6 +1,6 @@
 # ping-notify
 
-Pings a host until it becomes available and notify the availability using Pushbullet.
+Pings a host until it becomes available and when it does, notify of the availability using [Pushbullet](https://www.pushbullet.com).
 
 ## Installation
 
